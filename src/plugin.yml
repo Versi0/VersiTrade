@@ -1,0 +1,7 @@
+name: CoreMax-Trade
+main: net.coremax.basic.Main
+version: 1.0
+author: coremaxdevelopers
+
+commands:
+    trade:
